@@ -7,7 +7,7 @@ export class Context extends Component {
     super(props);
     this.state = {
       isLoading: false,
-      urls: ["https://s2.glbimg.com/slaVZgTF5Nz8RWqGrHRJf0H1PMQ=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/U/e/NTegqdSe6SoBAoQDjKZA/cachorro.jpg"],
+      urls: [],
       error: '',
     }
     this.fetchDog = this.fetchDog.bind(this);
