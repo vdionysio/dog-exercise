@@ -2,7 +2,7 @@ Esse é um exercício para fixação do conteúdo sobre `Context API`.
 
 ## Antes de iniciar
 
-Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/) disponibilizado pela trybe.
+Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
 
 Após feito o fork, clone o repositório criado para o seu computador.
 
