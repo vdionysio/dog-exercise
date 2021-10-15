@@ -23,4 +23,4 @@ Seu objetivo é refatorar o código para que a aplicação funcione utilizando a
 
 ### Resolução
 
-Você pode conferir uma possível resolução para o exercício acessando a branch solution, utilizando o comando `git checkout solution`
+Você pode conferir uma possível resolução para o exercício acessando a branch solution, utilizando o comando `git checkout solution`.
